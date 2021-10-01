@@ -1,0 +1,12 @@
+/Users/jordi/Desktop/Silab/Sibprog/bin/Debug/net5.0/Sibprog.deps.json
+/Users/jordi/Desktop/Silab/Sibprog/bin/Debug/net5.0/Sibprog.dll
+/Users/jordi/Desktop/Silab/Sibprog/bin/Debug/net5.0/ref/Sibprog.dll
+/Users/jordi/Desktop/Silab/Sibprog/bin/Debug/net5.0/Sibprog.pdb
+/Users/jordi/Desktop/Silab/Sibprog/obj/Debug/net5.0/Sibprog.csproj.AssemblyReference.cache
+/Users/jordi/Desktop/Silab/Sibprog/obj/Debug/net5.0/Sibprog.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jordi/Desktop/Silab/Sibprog/obj/Debug/net5.0/Sibprog.AssemblyInfoInputs.cache
+/Users/jordi/Desktop/Silab/Sibprog/obj/Debug/net5.0/Sibprog.AssemblyInfo.cs
+/Users/jordi/Desktop/Silab/Sibprog/obj/Debug/net5.0/Sibprog.csproj.CoreCompileInputs.cache
+/Users/jordi/Desktop/Silab/Sibprog/obj/Debug/net5.0/Sibprog.dll
+/Users/jordi/Desktop/Silab/Sibprog/obj/Debug/net5.0/ref/Sibprog.dll
+/Users/jordi/Desktop/Silab/Sibprog/obj/Debug/net5.0/Sibprog.pdb

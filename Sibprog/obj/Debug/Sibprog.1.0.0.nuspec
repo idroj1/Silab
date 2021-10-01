@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Sibprog</id>
+    <version>1.0.0</version>
+    <authors>Jordi_Mejia</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net5.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/Users/jordi/Desktop/Silab/Sibprog/bin/Debug/net5.0/Sibprog.dll" target="lib/net5.0/Sibprog.dll" />
+  </files>
+</package>
